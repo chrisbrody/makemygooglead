@@ -1,0 +1,14 @@
+{
+    "name": "babygrapes/buymyad",
+    "require": {
+        "guzzlehttp/guzzle": "7.9.2",
+        "vlucas/phpdotenv": "^5.6",
+        "twbs/bootstrap": "5.3"
+    },
+    "authors": [
+        {
+            "name": "chrisbrody",
+            "email": "chrisbrody87@gmail.com"
+        }
+    ]
+}

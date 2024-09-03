@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/buymyad.iml" filepath="$PROJECT_DIR$/.idea/buymyad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../xampp/htdocs/rialto-frontend/.idea/rialto-frontend.iml" filepath="$PROJECT_DIR$/../../../../../xampp/htdocs/rialto-frontend/.idea/rialto-frontend.iml" />
+    </modules>
+  </component>
+</project>
